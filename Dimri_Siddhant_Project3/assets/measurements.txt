@@ -1,0 +1,69 @@
+
+PAGE1
+
+logo -width: 278px
+         height: 123px
+
+mainNav- width: 291px
+               height: 33px
+
+promo- width: 841px
+            height: 298px
+
+promoImage- width: 482px
+                     height: 265px
+
+promoText- width: 330px
+                  height: 272px
+
+text- width: 844px
+        height: 84px
+
+product1- width: 255px
+               height: 276px
+
+productInfo1- width: 255px
+                     height: 74px
+
+product2- width: 255px
+               height: 276px
+
+productInfo2- width: 255px
+                     height: 74px
+
+product3- width: 255px
+               height: 276px
+
+productInfo3- width: 255px
+                     height: 74px
+
+footerNav- width: 291px;
+                   height: 33px;
+
+
+
+PAGE1
+
+logo -width: 278px
+         height: 123px
+
+mainNav- width: 291px
+               height: 33px
+
+contactUs- width: 325px
+                    height: 73px
+
+contactText- width: 599px
+                     height: 41px
+
+contactForm- width: 755px
+                        height: 556px
+
+submitButton- width: 167px
+                         height: 62px
+
+footerNav- width: 291px;
+                   height: 33px;
+
+
+
